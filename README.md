@@ -24,8 +24,7 @@ This tutorial features a single interactive notebook that guides you through the
 ## Reference:
 For further reading on the theoretical foundation and practical implications of AI agentic auditing, please refer to our preprint:
 
-**Schreyer, M., Gu, H., Moffitt, K., & Vasarhelyi, M. A. (2024).** *Artificial Intelligence Agentic Auditing*. Preprint. SSRN.  
-Available at: [Social Science Research Network - Abstract ID: 4909147](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147)
+**Schreyer, M., Gu, H., Moffitt, K., & Vasarhelyi, M. A. (2024).** *Artificial Intelligence Agentic Auditing*. Preprint. [Social Science Research Network (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147). Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147)
 
 ## Questions?
 
