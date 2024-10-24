@@ -13,6 +13,12 @@ This tutorial covers how multiple AI agents can work collaboratively to audit ac
 - **Office Hours:** Feel free to approach me after the session or via email for further discussion.
 - **Announcements:** Relevant updates and materials will be posted on the WCARS portal.
 
+## Reference:
+For further reading on the theoretical foundation and practical implications of AI agentic auditing, please refer to our preprint:
+
+**Schreyer, M., Gu, H., Moffitt, K., & Vasarhelyi, M. A. (2024).** *Artificial Intelligence Agentic Auditing*. Preprint. SSRN.  
+Available at: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4909147)
+
 ## Tutorial Content ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 This tutorial features a single interactive notebook that guides you through the core concepts of agentic auditing. Click the launcher to start the tutorial in the cloud environment of your choice. 
