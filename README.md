@@ -19,7 +19,7 @@ This tutorial features a single interactive notebook that guides you through the
 
 | Lab           | Topic                     | Description                |  Binder Notebook  | Gesis Notebook | Colab Notebook    | 
 |:--------------|:--------------------------|:---------------------------|:-----------------:|:-----------------:|:-----------------:|
-| Tutorial Lab  | AI Agentic Auditing        | Hands-on introduction to AI agents in auditing | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YourRepo/Agentic-Auditing/main?filepath=tutorial_lab%2Ftutorial_lab.ipynb) | [![badge](https://img.shields.io/badge/launch-gesis-F5A252.svg)](https://notebooks.gesis.org/binder/v2/gh/YourRepo/Agentic-Auditing/main?filepath=tutorial_lab%2Ftutorial_lab.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourRepo/Agentic-Auditing/blob/main/tutorial_lab/tutorial_lab.ipynb) |
+| Tutorial Lab  | AI Agentic Auditing        | Hands-on introduction to AI agents in auditing | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YourRepo/Agentic-Auditing/main?filepath=lab_01_agentic_auditing.ipynb) | [![badge](https://img.shields.io/badge/launch-gesis-F5A252.svg)](https://notebooks.gesis.org/binder/v2/gh/YourRepo/Agentic-Auditing/main?filepath=lab_01_agentic_auditing.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourRepo/Agentic-Auditing/blob/main/lab_01_agentic_auditing.ipynb) |
 
 ## Questions?
 
