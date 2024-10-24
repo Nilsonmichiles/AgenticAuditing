@@ -4,7 +4,8 @@
 
 Welcome to the **Artificial Intelligence Agentic Auditing** tutorial, part of the **63rd World Continuous Auditing and Reporting Symposium** (WCARS) at **Rutgers University** in Newark on **November 7th, 2024**. This tutorial will provide an in-depth, hands-on exploration of how AI agents can be leveraged to enhance and automate various auditing tasks. 🤖🔍
 
-This tutorial will cover the practical applications of AI agents in continuous auditing systems. Through interactive Jupyter notebooks, we will walk through real-world examples, illustrating how autonomous AI agents can streamline and optimize auditing workflows. 🐍💻
+This tutorial covers how multiple AI agents can work collaboratively to audit accounting journal entries, simulating tasks typically performed by human auditors. This session explores the growing role of **Agentic Auditing**, where autonomous AI agents work together to perform anomaly detection, compliance verification, and approval flow analysis. 🐍💻
+
 
 ## Tutorial Logistics 🗓️
 
