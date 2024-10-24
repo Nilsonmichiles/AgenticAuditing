@@ -1,4 +1,4 @@
-# Artificial Intelligence Agentic Auditing: A Tutorial
+# Artificial Intelligence Agentic Auditing Tutorial
 
 ![Symposium Banner](banner.jpg)
 
