@@ -19,7 +19,7 @@ This tutorial features a single interactive notebook that guides you through the
 
 | Lab           | Topic                     | Description                |  Binder Notebook  | Gesis Notebook | Colab Notebook    | 
 |:--------------|:--------------------------|:---------------------------|:-----------------:|:-----------------:|:-----------------:|
-| 01  | AI Agentic Auditing        | Intro AI Agents in Auditing | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/AgenticAuditing/main?filepath=lab_01_agentic_auditing.ipynb) | [![badge](https://img.shields.io/badge/launch-gesis-F5A252.svg)](https://notebooks.gesis.org/binder/v2/gh/GitiHubi/AgenticAuditing/main?filepath=lab_01_agentic_auditing.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/AgenticAuditing/blob/main/lab_01_agentic_auditing.ipynb) |
+| 01  | AI Agentic Auditing        | Intro AI Agents in Auditing | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/AgenticAuditing/main?filepath=lab_01_agentic_auditing.ipynb) | [![badge](https://img.shields.io/badge/launch-gesis-F5A252.svg)](https://notebooks.gesis.org/binder/v2/gh/GitiHubi/AgenticAuditing/main?filepath=lab_01_agentic_auditing.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/AgenticAuditing/blob/main/colab_01_agentic_auditing.ipynb) |
 
 ## Reference:
 For further reading on the theoretical foundation and practical implications of AI agentic auditing, please refer to our preprint:
