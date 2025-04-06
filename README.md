@@ -30,4 +30,6 @@ For further reading on the theoretical foundation and practical implications of 
 
 Please don't hesitate to reach out via the WCARS platform or by email:
 
-📧 ![Contact Email](https://github.com/YourRepo/Agentic-Auditing/blob/main/contact_email.png)
+📧 ![Contact Email](https://github.com/GitiHubi/AgenticAuditing/blob/main/mail.png)
+
+
