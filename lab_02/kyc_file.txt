@@ -1,0 +1,42 @@
+Client Information Document – Onboarding Case #CH-2024-0019
+
+Primary Applicant: John Alexander Smith
+Date of Birth: 12 March 1975
+Nationality: British
+Role: Ultimate Beneficial Owner (UBO)
+
+The client, Mr. John Alexander Smith, holds 100% of the shares in Westbridge Capital Holdings AG, a Zurich-based investment firm incorporated in 2012. He resides in London and has declared full tax compliance in the UK.
+
+Authorized Representative: Maria Fernanda Duarte
+Position: Legal Counsel
+Company: Duarte Legal Partners GmbH
+Country: Switzerland
+
+Additional Beneficial Owner:
+Name: Harlan Günther Weibel
+Date of Birth: 2 November 1968
+Nationality: Swiss
+Declared Role: Strategic Advisor and Voting Rights Holder
+Background: Former member of the Swiss National Council (2015–2019). Active in political consulting.
+
+Related Entity: Aequitas Trust (Cook Islands)
+Trust Type: Discretionary
+Settlor: Westbridge Capital Holdings AG
+Trustee: Pacific Fiduciary Ltd.
+
+Business Relationship Summary:
+- Investment advisory services across Swiss and European real estate portfolios.
+- Annual transaction volume expected to exceed CHF 25 million.
+
+KYC Notes:
+- Westbridge Capital Holdings AG was recently involved in a joint venture with Beringer International Ltd., incorporated in Cyprus.
+- Aequitas Trust has indirect exposure to public-sector bonds in several EU countries.
+
+Screening Considerations:
+- Harlan Günther Weibel is politically exposed due to prior public office.
+- Maria Fernanda Duarte has represented multiple high-net-worth clients, including offshore entities.
+- Cross-border trust structures require enhanced due diligence.
+
+Document verified and signed by:
+KYC Analyst: Luca Rinaldi
+Date: 14 February 2024
