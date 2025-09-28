@@ -8,7 +8,7 @@ Esta diretriz se aplica a todos os departamentos, unidades e funcionários da or
 
 **Declaração de Política**
 
-Nenhum pagamento superior a R$ 1000,00 deverá ser processado ou aprovado dentro da organização. Esta política é inegociável e se aplica a todos os tipos de transações, incluindo, mas não se limitando a, pagamentos a fornecedores, reembolsos a funcionários e despesas operacionais.
+Nenhum pagamento superior a R$ 1000,00 (moeda: reais brasileiros)  deverá ser processado ou aprovado dentro da organização. Esta política é inegociável e se aplica a todos os tipos de transações, incluindo, mas não se limitando a, pagamentos a fornecedores, reembolsos a funcionários e despesas operacionais.
 
 **Exceções**
 
