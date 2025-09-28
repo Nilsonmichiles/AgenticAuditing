@@ -24,7 +24,7 @@ Todas as exceções devem ser documentadas, justificadas por escrito e aprovadas
 
 1. **Início do Pagamento**: Todas as solicitações de pagamento devem ser submetidas por meio do sistema de gestão financeira designado. O solicitante deve fornecer toda a documentação e justificativa necessárias.  
 2. **Revisão e Aprovação**: As solicitações serão revisadas pela equipe financeira para garantir conformidade com esta diretriz. Qualquer solicitação que exceda 1000 USD será sinalizada e devolvida ao solicitante para ação adicional.  
-3. **Tratamento de Exceções**: Para pagamentos acima de 1000 USD que se enquadrem como exceção, o solicitante deve enviar um formulário de solicitação de exceção junto com a solicitação de pagamento, detalhando o motivo e anexando toda a documentação de suporte.  
+3. **Tratamento de Exceções**: Para pagamentos acima de R$ 1000 (mil reais brasileiros) que se enquadrem como exceção, o solicitante deve enviar um formulário de solicitação de exceção junto com a solicitação de pagamento, detalhando o motivo e anexando toda a documentação de suporte.  
 4. **Aprovação**: O CFO ou delegado autorizado revisará a solicitação de exceção. Se aprovada, o pagamento será processado. Se negada, o solicitante será notificado e deverá providenciar alternativas.  
 5. **Documentação e Relatórios**: Todas as exceções aprovadas devem ser registradas no sistema de gestão financeira, com registros detalhados mantidos para fins de auditoria. Um relatório trimestral de todas as exceções será apresentado à alta administração para revisão.
 
