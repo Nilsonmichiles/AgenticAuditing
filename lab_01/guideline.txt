@@ -1,6 +1,6 @@
 **Introdução**
 
-O objetivo desta diretriz é estabelecer controles claros e eficazes sobre as transações financeiras dentro da nossa organização. Ao proibir pagamentos que excedam 1000 USD, buscamos aprimorar a supervisão financeira, mitigar riscos e garantir conformidade com nossas políticas internas e exigências regulatórias externas.
+O objetivo desta diretriz é estabelecer controles claros e eficazes sobre as transações financeiras dentro da nossa organização. Ao proibir pagamentos que excedam R$ 1000 (mil reais brasileiros), buscamos aprimorar a supervisão financeira, mitigar riscos e garantir conformidade com nossas políticas internas e exigências regulatórias externas.
 
 **Escopo**
 
